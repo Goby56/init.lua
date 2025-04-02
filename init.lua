@@ -1,1 +1,1 @@
-require("goby")
+require("config")
